@@ -24,7 +24,7 @@ Or read the following blog: https://blogs.mathworks.com/community/2023/12/05/new
 
 ## 🎞️ Animations & Presentation Material
 
-![python Animation](complexPart.gif)
+![ComplexPart](https://github.com/user-attachments/assets/97ac78da-c4b9-4454-967c-3d07bfb5a558)
 
 The **Python animations** created using `animations.py` are designed as visual demonstrations for presentations and explanations of Newton’s Fractal behavior. These animations visually represent how points converge to different roots, how regions form, and how the fractal emerges over multiple iterations.
 
@@ -78,7 +78,7 @@ Which corresponds to:
 
 ## 🖥️ MATLAB App Designer GUI
 
-![appImage](image.png)
+![appImage](https://github.com/user-attachments/assets/def1049a-d370-42e6-b09f-9e5001d14654)
 
 The `NewtonsFractalAPP/` folder contains a MATLAB App Designer class (`app1.m`) plus supporting functions:
 
@@ -105,9 +105,9 @@ Most common functions are located in `GeneratorFunctions/Tester.m`, copy paste t
 
 ## 🧮 MATLAB Generator Functions 
 
-![Power3Creation](Power3Creation.gif)
+![Power3Creation](https://github.com/user-attachments/assets/33008830-08cd-4f96-868a-cf6a8bcd0ede)
 
-![Power3Rotation](power3rotation.gif)
+![Power3Rotation](https://github.com/user-attachments/assets/8553013e-eba4-4c3b-9db9-8d6d38d82a14)
 
 The folder `GeneratorFunctions/` contains the core MATLAB functions responsible for generating Newton’s Fractals and exporting them as static images or animated GIFs. These scripts handle everything from calculating convergence to coloring and exporting visuals.
 
