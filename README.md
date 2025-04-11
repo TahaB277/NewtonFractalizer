@@ -92,7 +92,7 @@ The `NewtonsFractalAPP/` folder contains a MATLAB App Designer class (`app1.m`) 
 ### Running the App
 
 1. Open MATLAB (R2021a or later).  
-2. In the **Current Folder**, navigate to `matlab_app/`.  
+2. In the **Current Folder**, navigate to `NewtonsFractalAPP/`.  
 3. Run:
    ```matlab
    app = app1;
